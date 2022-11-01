@@ -5,12 +5,16 @@ let stable = 5;
 
 let perform = 0;
 
+
+
 window.onload = function () {
     for (let f = 0; f < ftable; f++) {
         for (let s = 0; s < stable; s++) {
 
             let floor = document.createElement("img");
-            floor.src = "./images.jpg";
+           
+            
+            
 
             document.getElementById("table").append(floor);
         }
