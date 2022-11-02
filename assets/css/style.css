@@ -32,3 +32,28 @@ body {
     height: 80px;
     border: 0.5px solid white
 }
+
+@media screen and (max-width: 1200px){
+
+    #parts {
+        width: 390px;
+        height: 411px;
+        border: 3px solid blue;
+        margin: 0 auto;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    #table {
+        width: 31%;
+        height: 405px;
+        margin: 0 auto;
+    }
+
+    #table img {
+        width: 31%;
+        height: 43px;
+        margin: 0 auto;
+    }
+}
+   
