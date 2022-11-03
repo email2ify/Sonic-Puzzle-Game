@@ -90,3 +90,31 @@ function dragEnd() {
     perform += 1;
     document.getElementById("perform").innerText = perform;
 }
+
+
+
+
+
+
+
+function checkIfPuzzleSolved(){
+    if(document.querySelectorAll('.droppedparts').length !== 24){
+        return false;
+    }
+
+    let order = [];
+
+    for( let i = 0; i < 25; i++){
+        let move  = document.querySelectorAll('#table .droppedparts')[i]
+
+        order.push(move.getAttribute('data-order'))
+    }
+    if(order.toString() === '0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24') {
+        document.getElementById('ftable').innerText = 'Correct'
+        return true
+    } else {
+        document.getElementById('ftable').innerText = 'Try Again'
+        return false
+    }
+    
+};
