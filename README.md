@@ -30,12 +30,12 @@ This Game Website was created to have fun playing during relaxation and most esp
 <ul>
 <li>Counting Image:</li>
 <ul>
-<p> Here we have the Home, Sign Up, Contact and About menu to navigate on in the website and it shows an underline of the page the user is currently veiwing and it is responsive on all devices </p>
+<p> In this page, the performers is counted incrementally as to indicate the total numbers or performers taken, before completing the Sonic game puzzle </p>
 
 ![image](/assets/docs/counts-image.PNG)
 
 
-
+![image](/assets/docs/perform-image.PNG)
 
 
 
