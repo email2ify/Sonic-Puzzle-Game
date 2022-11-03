@@ -15,7 +15,6 @@ window.onload = function () {
         for (let s = 0; s < stable; s++) {
             let floorr = document.createElement("img");
 
-
             // hereis the key event listener for starting,draging over,enter & leave,dragdrop and finish for the first Table
             floorr.addEventListener("dragstart", dragStart);
             floorr.addEventListener("dragover", dragOver);
@@ -28,15 +27,13 @@ window.onload = function () {
         }
     }
     // all images from 1 to 25 in the parts section using array 
-
     let parts = [];
     for (let i = 1; i <= ftable * stable; i++) {
         parts.push(i.toString());
     }
 
-     
+
     // add a Math.ramdom of the array so each time a refresh is made, the images changes positions 
-    
     for (let i = 0; i < parts.length; i++) {
         let m = Math.floor(Math.random() * parts.length);
         let cap = parts[i];
@@ -44,7 +41,6 @@ window.onload = function () {
         parts[m] = cap;
 
     }
-
     for (let i = 0; i < parts.length; i++) {
         let floorr = document.createElement("img");
         floorr.src = "assets/images/puzzle" + parts[i] + ".jpg";
@@ -91,7 +87,6 @@ function dragEnd() {
     let otherImg = otherFloorr.src;
     currFloorr.src = otherImg;
     otherFloorr.src = currImg;
-
     perform += 1;
     document.getElementById("perform").innerText = perform;
 }
