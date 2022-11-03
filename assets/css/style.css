@@ -33,7 +33,7 @@ body {
     border: 0.5px solid white
 }
 
-@media screen and (max-width: 1200px){
+@media screen and (max-width: 1200px) {
 
     #parts {
         width: 390px;
@@ -56,4 +56,3 @@ body {
         margin: 0 auto;
     }
 }
-   
