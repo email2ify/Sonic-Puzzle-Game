@@ -8,8 +8,10 @@ This Game Website was created to have fun playing during relaxation and most esp
 
 ![image](/assets/docs/main-image.PNG)
 
+![image](/assets/docs/drop-image.PNG)
 
-
+![image](/assets/docs/finish-image.PNG)
+![image](/assets/docs/start-image.PNG)
 
 
 
