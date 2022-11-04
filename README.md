@@ -1,9 +1,9 @@
 <h1>#Sonic Puzzle Game</h1>
-This Game Website was created to have fun playing during relaxation and most especially for children that loves Sonic. A puzzle game that will the relax the brain from their daily activities and after school work.
+This Game Website was created to have fun playing during relaxation and most especially for children that loves Sonic. A puzzle game that will relax the brain from their daily activities and after-school work.
 
 
 <h2><Strong>Features:</strong></h2>
-<br>In this webpage Puzzle game, I have created three phase <br/>
+<br>In this webpage Puzzle game, I have created three phases <br/>
 
 
 <li>The Start Image</li>
@@ -21,7 +21,7 @@ This Game Website was created to have fun playing during relaxation and most esp
 
 <li>Finish Image</li>
 </ul>
-<p> This page is the front layout of this website and it is showing the start image of the Sonic Puzzle Game.
+<p> This page is the finished layout of this website and it is showing the finished image of the Sonic Puzzle Game.
 
 ![image](/assets/docs/finish-image.PNG)
 
@@ -30,14 +30,14 @@ This Game Website was created to have fun playing during relaxation and most esp
 <ul>
 <li>Counting Image:</li>
 <ul>
-<p> In this page, the performers is counted incrementally as to indicate the total numbers or performers taken, before completing the Sonic game puzzle </p>
+<p> On this page, the performers are counted incrementally to indicate the total number of performers taken, before completing the Sonic game puzzle </p>
 
   ![image](/assets/docs/count.PNG)
   
   
   
 <h2><Strong>Validator Testing</strong></h2>
-<p> HTML,CSS and Javascript are errors free and passing through the official W3C Validator and Syntax Validator. Below are my results free test on all three of them.
+<p> HTML, CSS, and Javascript are errors free and pass through the official W3C Validator and Syntax Validator. Below is my results-free test on all three of them.
 </p>
   
   <h4><Strong>For HTML code Validator result</strong></h4>
@@ -48,11 +48,11 @@ This Game Website was created to have fun playing during relaxation and most esp
  
   ![image](/assets/docs/css.PNG)
   
-  <h4><Strong>For Javerscript code Validator result</strong></h4>
+  <h4><Strong>For the Javascript code Validator result</strong></h4>
 
   ![image](/assets/docs/Javerscript.PNG)
   
-  <h4><Strong>For Lighthouse Testingt</strong></h4>
+  <h4><Strong>For Lighthouse Testing</strong></h4>
   
  ![image](/assets/docs/GoodJob.PNG)
   
@@ -62,8 +62,6 @@ This Game Website was created to have fun playing during relaxation and most esp
 <ul>
 <p>None</p>
 </ul>
-
-
 
 
 
@@ -78,15 +76,15 @@ This Game Website was created to have fun playing during relaxation and most esp
 <p>The main or master branch been selected, the page will refresh with a detailed ribbon display to indicate the successful deployment.</p>
 </ul>
 <ul>.</ul>
-<ul>Source code is hosted on GitHub and delpoyed using Git Pages.</ul>
+<ul>Source code is hosted on GitHub and deployed using Git Pages.</ul>
 <ul>Used to commit and push code during the development on the Website
 </ul>
-<ul>Feel free to navigate to the page <a href="https://8000-email2ify-sonicpuzzlega-8wnz1yrs9rw.ws-eu74.gitpod.io/" target="_blank">Sonic Game Puzzle</a>to relax
+<ul>Feel free to navigate to the page <a href="https://8000-email2ify-sonicpuzzlega-8wnz1yrs9rw.ws-eu74.gitpod.io/" target="_blank">Sonic Game Puzzle</a> to relax
 </ul>
 
 <h2><Strong>Credits</strong></h2>
 <p><a href="https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LMR101+2021_T1/courseware/73e9c0413ead4a21b389e33c77706102/48be8fcda02741f4b784016d5894101c/" target="_blank">Code Institute</a>-Writing Functions in JavaScript
-and walkthrough project, W3School and <a href="https://www.youtube.com/watch?v=6mgsMcOwfoE" target="_blank">YouTube</a>-Jigsaw Puzzle using jQuery tutorial.</p>
+and walkthrough project, W3School and <a href="https://www.youtube.com/watch?v=6mgsMcOwfoE" target="_blank">YouTube</a>-Jigsaw game using jQuery tutorial.</p>
 
 
 
