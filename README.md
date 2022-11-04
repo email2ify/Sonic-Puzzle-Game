@@ -85,7 +85,9 @@ This Game Website was created to have fun playing during relaxation and most esp
 </ul>
 
 <h2><Strong>Credits</strong></h2>
-<p>Credits to Code institute walkthrough project, W3School and <a href="https://www.youtube.com/watch?v=6mgsMcOwfoE" target="_blank">YouTube</a>-Jigsaw Puzzle using jQuery tutorial.</p>
+<p><a href="https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LMR101+2021_T1/courseware/73e9c0413ead4a21b389e33c77706102/48be8fcda02741f4b784016d5894101c/" target="_blank">Code Institute</a>-Writing Functions in JavaScript
+and walkthrough project, W3School and <a href="https://www.youtube.com/watch?v=6mgsMcOwfoE" target="_blank">YouTube</a>-Jigsaw Puzzle using jQuery tutorial.</p>
+
 
 
 </ul>
