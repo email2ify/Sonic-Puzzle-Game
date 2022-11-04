@@ -32,10 +32,95 @@ This Game Website was created to have fun playing during relaxation and most esp
 <ul>
 <p> In this page, the performers is counted incrementally as to indicate the total numbers or performers taken, before completing the Sonic game puzzle </p>
 
-![image](/assets/docs/counts-image.PNG)
+  ![image](/assets/docs/count.PNG)
+  
+  
+  
+<h2><Strong>Validator Testing</strong></h2>
+<p> HTML,CSS and Javascript are errors free and passing through the official W3C Validator and Syntax Validator. Below are my results free test on all three of them.
+</p>
+  
+  <h4><Strong>For HTML code Validator result</strong></h4>
+ 
+  ![image](/assets/docs/Html.PNG)
+ 
+   <h4><Strong>For CSS code Validator result</strong></h4>
+ 
+  ![image](/assets/docs/css.PNG)
+  
+  <h4><Strong>For Javerscript code Validator result</strong></h4>
+
+  ![image](/assets/docs/Javerscript.PNG)
+  
+  <h4><Strong>For Lighthouse Testingt</strong></h4>
+  
+ ![image](/assets/docs/GoodJob.PNG)
+  
+
+<h2><Strong>Unfixed Bugs</strong></h2>
+
+<ul>
+<p>None</p>
+</ul>
 
 
-![image](/assets/docs/perform-image.PNG)
+
+
+
+<h2><Strong>Deployment:</strong></h2>
+
+</p>
+</ul>
+<ul>
+<p>Used to commit and push code during the development of the Website</p>
+</ul>
+<ul>
+<p>The main or master branch been selected, the page will refresh with a detailed ribbon display to indicate the successful deployment.</p>
+</ul>
+<ul>.</ul>
+<ul>Source code is hosted on GitHub and delpoyed using Git Pages.</ul>
+<ul>Used to commit and push code during the development on the Website
+</ul>
+<ul>Feel free to navigate to the page <a href="https://8000-email2ify-sonicpuzzlega-8wnz1yrs9rw.ws-eu74.gitpod.io/" target="_blank">Sonic Game Puzzle</a>to relax
+</ul>
+
+<h2><Strong>Credits</strong></h2>
+<p>Credits to Code institute walkthrough project, W3School and <a href="https://www.youtube.com/watch?v=6mgsMcOwfoE" target="_blank">YouTube</a>-Jigsaw Puzzle using jQuery tutorial.</p>
+
+
+</ul>
+<p>.</p>
+</ul>
+
+
+<h2><Strong>Useful Resources</strong></h2>
+
+
+<ul>
+<li><a href="https://picresize.com/" target="_blank">Picture Resize</a>-Used to reduce the original picture
+</ul>
+
+
+<ul>
+<li><a href="https://web.dev/drag-and-drop/" target="_blank">MDN Docs</a>-drag and drop</li>
+</ul>
+
+<ul>
+<li><a href="https://www.youtube.com/watch?v=jfYWwQrtzzY" target="_blank">YouTube</a>-Drag and Drop
+</ul>
+
+
+<ul>
+<li><a href="https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LMR101+2021_T1/courseware/73e9c0413ead4a21b389e33c77706102/48be8fcda02741f4b784016d5894101c/" target="_blank">Code Institute</a>-Writing Functions in JavaScript
+
+
+
+
+
+
+
+
+
 
 
 
