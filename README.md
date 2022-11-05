@@ -10,7 +10,7 @@ This Game Website was created to have fun playing during relaxation and most esp
 </ul>
 <p> This page is the front layout of this website and it is showing the start image of the Sonic Puzzle Game.
 
-![image](/assets/docs/starting-image.PNG)
+![image](/assets/docs/start-image.PNG)
 
 
 <li>Drop Image</li>
@@ -18,7 +18,7 @@ This Game Website was created to have fun playing during relaxation and most esp
 <p> This page is the drop layout of the game website and it is showing the drop image of the Sonic Puzzle Game.
 
 
-![image](/assets/docs/loading-image.PNG)
+![image](/assets/docs/landing-image.PNG)
 
 <li>Finish Image</li>
 </ul>
@@ -27,14 +27,13 @@ This Game Website was created to have fun playing during relaxation and most esp
 ![image](/assets/docs/finished-image.PNG)
 
 
-
 <ul>
 <li>Counting Image:</li>
 <ul>
 <p> On this page, the performers are counted incrementally to indicate the total number of performers taken, before completing the Sonic game puzzle </p>
 
   
-  ![image](/assets/docs/counting-moves.PNG)
+  ![image](/assets/docs/counting-image.PNG)
   
   
   
