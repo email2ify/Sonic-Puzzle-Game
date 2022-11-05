@@ -1,6 +1,7 @@
 <h1>#Sonic Puzzle Game</h1>
 This Game Website was created to have fun playing during relaxation and most especially for children that loves Sonic. A puzzle game that will relax the brain from their daily activities and after-school work.
 
+![image](/assets/docs/Multi%20pic.PNG)
 
 <h2><Strong>Features:</strong></h2>
 <br>In this webpage Puzzle game, I have created three phases <br/>
