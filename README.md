@@ -55,8 +55,8 @@ This Game Website was created to have fun playing during relaxation and most esp
   ![image](/assets/docs/Javerscript.PNG)
   
   <h4><Strong>For Lighthouse Testing</strong></h4>
-  
- ![image](/assets/docs/GoodJob.PNG)
+
+ ![image](/assets/docs/Light-house.PNG)
   
 
 <h2><Strong>Unfixed Bugs</strong></h2>
