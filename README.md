@@ -9,7 +9,7 @@ This Game Website was created to have fun playing during relaxation and most esp
 
 <li>The Start Image</li>
 </ul>
-<p> This page is the front layout of this website and it is showing the start image of the Sonic Puzzle Game.
+<p> This page is the front layout of the game website and it is showing the start image of the Sonic Puzzle Game.
 
 ![image](/assets/docs/start-image.PNG)
 
@@ -23,7 +23,7 @@ This Game Website was created to have fun playing during relaxation and most esp
 
 <li>Finish Image</li>
 </ul>
-<p> This page is the finished layout of this website and it is showing the finished image of the Sonic Puzzle Game.
+<p> This page is the finished layout of the game website and it is showing the finished image of the Sonic Puzzle Game.
 
 ![image](/assets/docs/finished-image.PNG)
 
