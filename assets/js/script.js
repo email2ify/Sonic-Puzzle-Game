@@ -1,20 +1,18 @@
 
-// for the 5 by 5 swapping and dragging tables
-let currFloorr;
-let otherFloorr;
 
+// first and second table
 let ftable = 5;
 let stable = 5;
-
+// for the 5 by 5 swapping and dragging tables
+let firstFloorr;
+let secondFloorr;
 // it keeps information of drag performers, starting from zero after  refresh
 let perform = 0;
-
 // initializing tables here 
 window.onload = function () {
     for (let f = 0; f < ftable; f++) {
         for (let s = 0; s < stable; s++) {
             let floorr = document.createElement("img");
-
             // hereis the key event listener for starting,draging over,enter & leave,dragdrop and finish for the first Table
             floorr.addEventListener("dragstart", dragStart);
             floorr.addEventListener("dragover", dragOver);
@@ -31,8 +29,6 @@ window.onload = function () {
     for (let i = 1; i <= ftable * stable; i++) {
         parts.push(i.toString());
     }
-
-
     // add a Math.ramdom of the array so each time a refresh is made, the images changes positions 
     for (let i = 0; i < parts.length; i++) {
         let m = Math.floor(Math.random() * parts.length);
@@ -44,7 +40,6 @@ window.onload = function () {
     for (let i = 0; i < parts.length; i++) {
         let floorr = document.createElement("img");
         floorr.src = "assets/images/puzzle" + parts[i] + ".jpg";
-
         //  the key event listener for starting,draging over,enter & leave,dragdrop and finish for the second Table
         floorr.addEventListener("dragstart", dragStart);
         floorr.addEventListener("dragover", dragOver);
@@ -52,69 +47,49 @@ window.onload = function () {
         floorr.addEventListener("dragleave", dragLeave);
         floorr.addEventListener("drop", dragDrop);
         floorr.addEventListener("dragend", dragEnd);
-
         document.getElementById("parts").append(floorr);
 
     }
 }
 //  the drag functionality when starting,draging over,enter & leave,dragdrop and finish
 function dragStart() {
-    currFloorr = this;
+    firstFloorr = this;
 }
 
-function dragOver(e) {
-    e.preventDefault();
+function dragOver(i) {
+    i.preventDefault();
 }
 
-function dragEnter(e) {
-    e.preventDefault();
+function dragEnter(i) {
+    i.preventDefault();
 }
 
 function dragLeave() {
 
 }
-
 function dragDrop() {
-    otherFloorr = this;
+    secondFloorr = this;
 }
 
 function dragEnd() {
-    if (currFloorr.src.includes("blank")) {
+    if (firstFloorr.src.includes("blank")) {
         return;
     }
     // "perform" an incremental by 1 each time a swap is made
-    let currImg = currFloorr.src;
-    let otherImg = otherFloorr.src;
-    currFloorr.src = otherImg;
-    otherFloorr.src = currImg;
+    let firstImg = firstFloorr.src;
+    let secondImg = secondFloorr.src;
+    firstFloorr.src = secondImg;
+    secondFloorr.src = firstImg;
     perform += 1;
     document.getElementById("perform").innerText = perform;
 }
 
-
-
-
-
-
-
-function checkIfPuzzleSolved(){
-    if(document.querySelectorAll('.droppedparts').length !== 24){
-        return false;
+function checkIfSolved(){
+    let userAnswer = document.querySelectorAll('#completetable').values;
+    let correctAnwser = Answercorrect()
+    let isCorrect = userAnswer == correctAnwser['1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,8,19,20,21,22,23,24,25'];
+    if (isCorrect) {
+        alert("Hey! CONGRATULATIONS! :D");
+       
     }
-
-    let order = [];
-
-    for( let i = 0; i < 25; i++){
-        let move  = document.querySelectorAll('#table .droppedparts')[i]
-
-        order.push(move.getAttribute('data-order'))
-    }
-    if(order.toString() === '0,1,2,3,4,5,6,7,8,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24') {
-        document.getElementById('ftable').innerText = 'Correct'
-        return true
-    } else {
-        document.getElementById('ftable').innerText = 'Try Again'
-        return false
-    }
-    
-};
+}
