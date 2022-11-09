@@ -72,15 +72,17 @@ This Game Website was created to have fun playing during relaxation and most esp
 </p>
 </ul>
 <ul>
-<p>Used to commit and push code during the development of the Website</p>
+<p>Source code is hosted on GitHub and deployed using Git Pages.</p>
+ <p>Used to commit and push code during the development on the Website</p>
 </ul>
+<ul>
+<p>Open GitHub and then you go to the setting tap and from the setting tap to the pages, select the main or master work for the development</p>
+</ul>
+
 <ul>
 <p>The main or master branch been selected, the page will refresh with a detailed ribbon display to indicate the successful deployment.</p>
 </ul>
-<ul>.</ul>
-<ul>Source code is hosted on GitHub and deployed using Git Pages.</ul>
-<ul>Used to commit and push code during the development on the Website
-</ul>
+  
 <ul>Feel free to navigate to the page <a href="https://8000-email2ify-sonicpuzzlega-8wnz1yrs9rw.ws-eu74.gitpod.io/" target="_blank">Sonic Game Puzzle</a> to relax
 </ul>
 
