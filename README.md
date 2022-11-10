@@ -11,7 +11,8 @@ This Game Website was created to have fun playing during relaxation and most esp
 </ul>
 <p> This page is the front layout of the game website and it is showing the start image of the Sonic Puzzle Game.
 
-![image](/assets/docs/start-image.PNG)
+
+
 
 
 <li>Drop Image</li>
