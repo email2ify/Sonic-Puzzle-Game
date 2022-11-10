@@ -69,11 +69,11 @@ This Game Website was created to have fun playing during relaxation and most esp
 
 </ul>
 
-  ![image](/assets/docs/Javerscript.PNG)
+  ![image](/assets/docs/Javerscript%20Validator.PNG) 
   
   <h4><Strong>For Lighthouse Testing</strong></h4>
 
- ![image](/assets/docs/Light-house.PNG)
+![image](/assets/docs/lightHouse3.PNG)
   
 
 <h2><Strong>Unfixed Bugs</strong></h2>
