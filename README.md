@@ -11,7 +11,7 @@ This Game Website was created to have fun playing during relaxation and most esp
 </ul>
 <p> This page is the front layout of the game website and it is showing the start image of the Sonic Puzzle Game.
 
-
+![image](/assets/docs/Sonic-Adv.PNG)
 
 
 
@@ -74,8 +74,10 @@ This Game Website was created to have fun playing during relaxation and most esp
   
   <h4><Strong>For Lighthouse Testing</strong></h4>
 
-![image](/assets/docs/lightHouse3.PNG)
-  
+
+![image](/assets/docs/lighthouse%20(3).PNG)
+
+
 <h2><Strong>Testing</strong></h2>
 
 <ul>
