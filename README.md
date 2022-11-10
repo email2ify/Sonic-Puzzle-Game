@@ -43,14 +43,31 @@ This Game Website was created to have fun playing during relaxation and most esp
 </p>
   
   <h4><Strong>For HTML code Validator result</strong></h4>
- 
+
+<ul>
+<li><a href="https://validator.w3.org/#validate_by_input" target="_blank">HTML - W3C HTML Validator
+</ul>
+
+
   ![image](/assets/docs/Html.PNG)
  
-   <h4><Strong>For CSS code Validator result</strong></h4>
+  
+  <h4><Strong>For CSS code Validator result</strong></h4>
+   
+
+<ul>
+<li><a href="https://jigsaw.w3.org/css-validator/#validate_by_input" target="_blank">CSS-Jigsaw CSS Validator
+</ul>
+
  
   ![image](/assets/docs/css.PNG)
   
   <h4><Strong>For the Javascript code Validator result</strong></h4>
+  
+  <ul>
+<li><a href="https://extendsclass.com/javascript-fiddle.html" target="_blank">Javascript - ExtendsClass
+
+</ul>
 
   ![image](/assets/docs/Javerscript.PNG)
   
