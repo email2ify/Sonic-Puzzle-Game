@@ -75,6 +75,15 @@ This Game Website was created to have fun playing during relaxation and most esp
 
 ![image](/assets/docs/lightHouse3.PNG)
   
+<h2><Strong>Testing</strong></h2>
+
+<ul>
+<p>A Sonic picture cuts and resized in pieces and mixed on board1, hoping to be re-arrange on board2 with the correct main image of sonic adventure picture.
+Dragging and dropping the image pieces on board2 and the result of the main sonic image turns out to be in the correct order. As view below.</p>
+</ul>
+
+![image](/assets/docs/finished-image.PNG)
+
 
 <h2><Strong>Unfixed Bugs</strong></h2>
 
@@ -104,14 +113,33 @@ This Game Website was created to have fun playing during relaxation and most esp
 </ul>
 
 <h2><Strong>Credits</strong></h2>
-<p><a href="https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LMR101+2021_T1/courseware/73e9c0413ead4a21b389e33c77706102/48be8fcda02741f4b784016d5894101c/" target="_blank">Code Institute</a>-Writing Functions in JavaScript
-and walkthrough project, W3School and <a href="https://www.youtube.com/watch?v=6mgsMcOwfoE" target="_blank">YouTube</a>-Jigsaw game using jQuery tutorial.</p>
 
 
-
+<ul>
+<li>Writing Functions in JavaScript<a href="https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+LMR101+2021_T1/courseware/73e9c0413ead4a21b389e33c77706102/48be8fcda02741f4b784016d5894101c/" target="_blank">Code Institute</a>
 </ul>
-<p>.</p>
+
+<ul>
+<li>Code institute Walkthrough project
 </ul>
+
+<ul>
+<li>W3School 
+</ul>
+
+<ul>
+<li>Web Dev(MDN Docs)
+</ul>
+
+<ul>
+<li> Puzzle game tutorial <a href="https://www.youtube.com/watch?v=sD3Os4H_EOU" target="_blank">YouTube
+</ul>
+
+<ul>
+<li>Jigsaw game using jQuery tutorial <a href="https://www.youtube.com/watch?v=6mgsMcOwfoE" target="_blank">YouTube</a>
+</ul>
+
+
 
 
 <h2><Strong>Useful Resources</strong></h2>
