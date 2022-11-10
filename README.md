@@ -112,7 +112,7 @@ Dragging and dropping the image pieces on board2 and the result of the main soni
 <p>The main or master branch been selected, the page will refresh with a detailed ribbon display to indicate the successful deployment.</p>
 </ul>
   
-<ul>Feel free to navigate to the page <a href="https://8000-email2ify-sonicpuzzlega-8wnz1yrs9rw.ws-eu74.gitpod.io/" target="_blank">Sonic Game Puzzle</a> to relax
+<ul>Feel free to navigate to the page <a href="https://email2ify.github.io/Sonic-Puzzle-Game/" target="_blank">Sonic Game Puzzle</a> to relax
 </ul>
 
 <h2><Strong>Credits</strong></h2>
@@ -146,6 +146,11 @@ Dragging and dropping the image pieces on board2 and the result of the main soni
 
 
 <h2><Strong>Useful Resources</strong></h2>
+
+
+<ul>
+<li><a href="https://email2ify.github.io/Sonic-Puzzle-Game/" target="_blank">YO</a>-Used to reduce the original picture
+</ul>
 
 
 <ul>
