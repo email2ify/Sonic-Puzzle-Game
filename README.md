@@ -149,11 +149,6 @@ Dragging and dropping the image pieces on board2 and the result of the main soni
 
 
 <ul>
-<li><a href="https://email2ify.github.io/Sonic-Puzzle-Game/" target="_blank">YO</a>-Used to reduce the original picture
-</ul>
-
-
-<ul>
 <li><a href="https://picresize.com/" target="_blank">Picture Resize</a>-Used to reduce the original picture
 </ul>
 
